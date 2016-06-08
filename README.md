@@ -6,4 +6,9 @@ Screenshots
 ========
 ![image](https://github.com/olkinn/forest-blue-iTerm/master/screenshots/color-table.png)
 
+![image](https://github.com/olkinn/forest-blue-iTerm/master/screenshots/screenfetch.png)
+
+![image](https://github.com/olkinn/forest-blue-iTerm/master/screenshots/scripts.png)
+
+![image](https://github.com/olkinn/forest-blue-iTerm/master/screenshots/dna.png)
 
